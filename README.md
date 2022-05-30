@@ -13,6 +13,7 @@ Deepfacke Detection using Image Crop and Image recognition
 - Image Crop
 
 - Image Recognition <br>
+<br>
 ---- Resnet <br>
 ---- Facenet <br>
 
