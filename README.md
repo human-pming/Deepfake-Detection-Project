@@ -7,6 +7,24 @@ Deepfacke Detection using Image Crop and Image recognition
 
 영상 속 얼굴 객체 탐지에는 MTCNN 모델을 사용했고, 딥페이크 여부 감지에는 Resnet과 Facenet 모델을 사용했습니다.<br>
 
+## 깃허브 폴더 구조
+```Deepfake-Detection-Project
+├── dataset
+│   ├── train
+│   ├── test
+│   └── validation
+├── models
+│   ├── train.py
+│   ├── classify.py
+│   ├── model.py
+│   └── dataset.py
+├── mtcnn_resnet
+├── mtcnn_facenet
+│   ├── train.py
+│   ├── classify.py
+│   ├── model.py
+│   └── dataset.py
+``
 ## 사용 데이터
 전체 영상 데이터셋의 경우, 캐글에서 개최한 Deepfake Detection Challenge에서 제공한 데이터셋을 활용했습니다. <br>
 
