@@ -11,9 +11,8 @@ Deepfake Detection using Image Crop and Image recognition
 
 ```Deepfake-Detection-Project
 ├── dataset
-│   ├── train
-│   ├── test
-│   └── validation
+│   ├── mtcnn_resnet
+│   └── mtcnn_facenet
 ├── models
 │   ├── train.py
 │   ├── classify.py
