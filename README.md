@@ -1,5 +1,5 @@
 # 딥페이크 감지 모델 비교 프로젝트
-Deepfacke Detection using Image Crop and Image recognition
+Deepfake Detection using Image Crop and Image recognition
 ( 2022.04.01 ~ 2022.05.30 )
 
 ## 프로젝트 소개
