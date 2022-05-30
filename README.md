@@ -14,8 +14,7 @@ Deepfacke Detection using Image Crop and Image recognition
 
 - Image Recognition <br>
 <br>
-- Resnet <br>
-- Facenet <br>
+
 
 ## 사용 모델
 
