@@ -12,7 +12,8 @@ Deepfacke Detection using Image Crop and Image recognition
 - Image Recognition
 
 ## 사용 모델
-[Facenet](https://drive.google.com/drive/folders/12aMYASGCKvDdkygSv1yQq8ns03AStDO_)
+
+[Facenet](https://drive.google.com/drive/folders/12aMYASGCKvDdkygSv1yQq8ns03AStDO) <br>
 [Resnet,MTCNN](https://github.com/timesler/facenet-pytorch/tree/master/models)
 
 
