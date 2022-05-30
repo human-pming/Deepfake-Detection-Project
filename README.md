@@ -1,4 +1,4 @@
-# 딥페이크 감지 모델 비교 프로젝트
+# 📸 딥페이크 감지 모델 비교 프로젝트
 Deepfake Detection using Image Crop and Image recognition
 ( 2022.04.01 ~ 2022.05.30 )
 
