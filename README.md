@@ -10,9 +10,9 @@ Deepfacke Detection using Image Crop and Image recognition
 ## 사용 데이터
 전체 영상 데이터셋의 경우, 캐글에서 개최한 Deepfake Detection Challenge에서 제공한 데이터셋을 활용했습니다. <br>
 
-- **Image Crop
+- **Image Crop**
 
-- **Image Recognition <br>
+- **Image Recognition** <br>
 <br>
 
 
